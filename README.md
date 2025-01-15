@@ -45,7 +45,17 @@ A showcase of my work as part of the CODSOFT Data Science Internship. This repos
   - TASK: The Iris flower dataset consists of three species: setosa, versicolor, and virginica. These species can be distinguished based on their measurements. Now, imagine that you have the measurements of Iris flowers categorized by their respective species. Your objective is to train a machine learning model that can learn from these measurements and accurately classify the Iris flowers into their respective species. Use the Iris dataset to develop a model that can classify iris
 flowers into different species based on their sepal and petal measurements. This dataset is widely used for introductory classification tasks.
   
-- [Github Link](https://github.com/Gtshivanand/CodeAlpha-Datascience_Intership/tree/main/Task%201-%20Iris%20Flower%20Classification) 
+- [Github Link](https://github.com/Gtshivanand/CodeAlpha-Datascience_Intership/tree/main/Task%201-%20Iris%20Flower%20Classification)
+
+  
+## TASK 2
+<img src ="https://github.com/Gtshivanand/CodeAlpha-Datascience_Intership/blob/main/Task2-Unemployment%20Analysis%20with%20Python/Images/Task2%20Description.jpg"/>
+- Project: **UNEMPLOYMENT ANALYSIS WITH PYTHON**
+- Description: Unemployment is measured by the unemployment rate which is the number of people who are unemployed as a percentage of the total labour force. We have seen a sharp increase in the unemployment rate during Covid-19, so analyzing the unemployment rate can be a good data science project. 
+- Dataset Provided: [Unemployment in India](https://www.kaggle.com/datasets/gokulrajkmv/unemployment-in-india)
+- Libraries used: Numpy, Pandas, Matplotlib, Seaborn,Plotly, calender and datetime  
+- Repository: The project's GitHub repository can be found at [TASK 2](https://github.com/BinduMadhuriK/OIBSIP/tree/main/TASK%202).
+
 
  # CONCLUSION: 
 
