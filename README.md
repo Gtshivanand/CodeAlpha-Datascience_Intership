@@ -35,6 +35,17 @@ A showcase of my work as part of the CODSOFT Data Science Internship. This repos
 
 * Emphasis on reproducibility and clear documentation for each project.
 
+
+### DATA SCIENCE TASKS:
+
+ **TASK 1: IRIS FLOWER CLASSIFICATION**
+  
+  <img src="https://github.com/Gtshivanand/CodeAlpha-Datascience_Intership/blob/main/Task%201-%20Iris%20Flower%20Classification/Images/Task1%20Description.jpg"/>
+  - SOURCE: https://www.kaggle.com/datasets/arshid/iris-flower-dataset
+  - TASK: The Iris flower dataset consists of three species: setosa, versicolor, and virginica. These species can be distinguished based on their measurements. Now, imagine that you have the measurements of Iris flowers categorized by their respective species. Your objective is to train a machine learning model that can learn from these measurements and accurately classify the Iris flowers into their respective species. Use the Iris dataset to develop a model that can classify iris
+flowers into different species based on their sepal and petal measurements. This dataset is widely used for introductory classification tasks.
+  - [Github Link](https://github.com/BinduMadhuriK/CODSOFT-Data-Science-Internship/tree/e4a5e0d0c17ff237f707d1cdbfa02467bb193a3a/TASK%203%3A%20IRIS%20Flower%20Classification) 
+
  # CONCLUSION: 
 
 The Codsoft Data Science Internship has been an enriching experience, providing me with the skills and knowledge to tackle real-world data challenges. I am grateful for the opportunity to contribute to meaningful projects and look forward to applying these skills in future endeavors.
