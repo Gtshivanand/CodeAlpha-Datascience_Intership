@@ -44,7 +44,8 @@ A showcase of my work as part of the CODSOFT Data Science Internship. This repos
   - SOURCE: https://www.kaggle.com/datasets/arshid/iris-flower-dataset
   - TASK: The Iris flower dataset consists of three species: setosa, versicolor, and virginica. These species can be distinguished based on their measurements. Now, imagine that you have the measurements of Iris flowers categorized by their respective species. Your objective is to train a machine learning model that can learn from these measurements and accurately classify the Iris flowers into their respective species. Use the Iris dataset to develop a model that can classify iris
 flowers into different species based on their sepal and petal measurements. This dataset is widely used for introductory classification tasks.
-  - [Github Link](https://github.com/BinduMadhuriK/CODSOFT-Data-Science-Internship/tree/e4a5e0d0c17ff237f707d1cdbfa02467bb193a3a/TASK%203%3A%20IRIS%20Flower%20Classification) 
+  
+- [Github Link](https://github.com/Gtshivanand/CodeAlpha-Datascience_Intership/tree/main/Task%201-%20Iris%20Flower%20Classification) 
 
  # CONCLUSION: 
 
