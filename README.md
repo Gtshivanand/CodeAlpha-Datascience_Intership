@@ -54,7 +54,9 @@ flowers into different species based on their sepal and petal measurements. This
 - Description: Unemployment is measured by the unemployment rate which is the number of people who are unemployed as a percentage of the total labour force. We have seen a sharp increase in the unemployment rate during Covid-19, so analyzing the unemployment rate can be a good data science project. 
 - Dataset Provided: [Unemployment in India](https://www.kaggle.com/datasets/gokulrajkmv/unemployment-in-india)
 - Libraries used: Numpy, Pandas, Matplotlib, Seaborn,Plotly, calender and datetime  
-- Repository: The project's GitHub repository can be found at [TASK 2](https://github.com/BinduMadhuriK/OIBSIP/tree/main/TASK%202).
+- Repository: The project's GitHub repository can be found at
+
+- [Github Link](https://github.com/Gtshivanand/CodeAlpha-Datascience_Intership/tree/main/Task2-Unemployment%20Analysis%20with%20Python).
 
 
  # CONCLUSION: 
