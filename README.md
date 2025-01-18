@@ -69,6 +69,18 @@ flowers into different species based on their sepal and petal measurements. This
 
 - [Github Link](https://github.com/Gtshivanand/CodeAlpha-Datascience_Intership/tree/main/Task3-Car%20Price%20Prediction%20with%20Machine%20Learning).
 
+## TASK 4
+<img src="https://github.com/Gtshivanand/CodeAlpha-Datascience_Intership/blob/main/Task%204-%20Sales%20Prediction%20using%20Python/Images/Task4%20Description.jpg"/>
+- Project: **SALES PREDICTION USING PYTHON**
+- Description: Sales prediction means predicting how much of a product people will buy based on factors such as the amount you spend to advertise your product, the segment of people you advertise for, or the platform you are advertising on about your product. Typically, a product and service-based business always need their Data Scientist to predict their future sales with every step they take to manipulate the cost of advertising their product. Complete the task of sales prediction with machine learning using Python.
+- Dataset Provided: [Advertising Dataset](https://www.kaggle.com/datasets/bumba5341/advertisingcsv)
+- Libraries used: pandas, numpy, matplotlib, seaborn and scikit-learn.
+- Models used: Linear Regression, Ridge Regression, ElasticNet Regression, Lasso Regression, KNN Regression, Decision Tree Regression, XGBoost Regression, Random Forest Regression and Gradient Boosting
+- Repository: The project's GitHub repository can be found at
+
+- [Github Link](https://github.com/Gtshivanand/CodeAlpha-Datascience_Intership/tree/main/Task%204-%20Sales%20Prediction%20using%20Python).
+
+
 
 
  # CONCLUSION: 
