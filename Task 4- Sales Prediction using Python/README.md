@@ -1,25 +1,22 @@
-# SALES PREDICTION USING PYTHON:
+# Task 4: SALES PREDICTION USING PYTHON:
 
 
 # Introduction: 
 
 The "Sales Prediction Using Advertising Costs" project aims to predict sales based on advertising expenditures across different channels like TV, radio, and digital media. By analysing historical data, the goal is to create a machine learning model that forecasts sales based on advertising budgets, helping businesses optimize marketing strategies and improve decision-making for better profitability.
 
+# Objective:
+
+The dataset has advertising data sales (in thousands of units) for a particular product advertising budgets (in thousands of dollars) for TV, radio, and newspaper media. On the basis of this data, we need to suggest a marketing plan for future sales that will result in high product sales. We have to create various regression models with a focus on robust performance. And the identify the optimal model based on to its balanced accuracy and generalization. So, we have to use this advertising dataset given in the task and analyse the predicted sales based on the given advertising expenditures using the best regression model.
 
 # Task Description:
 
-- Sales prediction involves forecasting the amount of a product that customers will purchase, taking into account various factors such as advertising expenditure, target audience segmentation, and advertising platform selection. 
-- In businesses that offer products or services, the role of a Data Scientist is crucial for predicting future sales. They utilize machine learning techniques in Python to analyse and interpret data, allowing them to make informed decisions regarding advertising costs. By leveraging these predictions, businesses can optimize their advertising strategies and maximize sales potential. Let's embark on the journey of sales prediction using machine learning in Python.
+<img src="https://github.com/Gtshivanand/CodeAlpha-Datascience_Intership/blob/main/Task%204-%20Sales%20Prediction%20using%20Python/Images/Task4%20Description.jpg"/>
 
 # Problem Statement:
 The goal of the "Sales Prediction Using Advertising Costs" project is to predict the sales of a company based on the amount spent on advertising across various channels, such as TV, radio, and digital media. Advertising plays a significant role in influencing consumer behavior, and businesses need to understand the relationship between advertising expenditures and sales outcomes.
 Given historical data on advertising costs and corresponding sales figures, the task is to develop a machine learning model that can accurately predict future sales based on the allocated advertising budgets. This will help businesses optimize their marketing strategies, allocate budgets effectively, and make informed decisions to maximize their return on investment (ROI) in advertising.
-
-
-
-# Objective:
-
-The dataset has advertising data sales (in thousands of units) for a particular product advertising budgets (in thousands of dollars) for TV, radio, and newspaper media. On the basis of this data, we need to suggest a marketing plan for future sales that will result in high product sales. We have to create various regression models with a focus on robust performance. And the identify the optimal model based on to its balanced accuracy and generalization. So, we have to use this advertising dataset given in the task and analyse the predicted sales based on the given advertising expenditures using the best regression model. 
+ 
 
 #  About the Dataset:
 
@@ -29,8 +26,6 @@ The advertising dataset [link](https://www.kaggle.com/code/ashydv/sales-predicti
 - Radio: a numeric vector indicating the advertising budget on radio.
 - Newspaper: a numeric vector indicating the advertising budget on newspaper.
 - Sales: a numeric vector indicating the sales of the interest product.
-
-
 
 
 # Overview:
@@ -53,43 +48,6 @@ The advertising dataset [link](https://www.kaggle.com/code/ashydv/sales-predicti
 - Observed outliers in the Newspapers category, while the other categories have no outliers. 
 - Among the models evaluated, Gradient Boosting Regression model performed the best with around 96% accuracy and lowest Mean Squared Error (MSE) of 1.245, followed by Random Forest Regression model with 95% accuracy and Mean Squared Error (MSE) of 1.496 and XGBoost Regression model with 93.9% accuracy and Mean Squared Error (MSE) of 1.880.
 - Saved the output file with Gradient Boosting Regression model's sales predictions for deployment
-
-
-
-
-# visualizations:
-
-### Visualization of missing values:
-
-### Visualizing outliers using boxplots:
-
-### Visualizing outliers for the target variable:
-
-### using scatterplot to see how sales is related to the other variables: 
-
-### Relationship between Advertising Budgets and Sales:
-
-### Average Spend on Advertising Channels:
-
-### Checking correlation between variables:
-
-###  Visualize Predicted Vs Actual Values (Linear Regression):
-
-###  Visualize Predicted Vs Actual Values(Lasso Regression):
-
-
-###  Visualize Predicted Vs Actual Values(Ridge Regression):
-
-###  Visualize Predicted Vs Actual Values(ElasticNet Regression):
-
-###   Plotting the pie chart R-squared Scores of Regressors:
-
-### Visualize Predicted Vs Actual Values for (Gradient Boosting Regression):
-
-### MSE Scores of Models:
-
-
-
 
 # Conclusion:
 
