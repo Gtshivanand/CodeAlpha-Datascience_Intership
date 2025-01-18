@@ -58,6 +58,18 @@ flowers into different species based on their sepal and petal measurements. This
 
 - [Github Link](https://github.com/Gtshivanand/CodeAlpha-Datascience_Intership/tree/main/Task2-Unemployment%20Analysis%20with%20Python).
 
+## TASK 3
+<img src="https://github.com/Gtshivanand/CodeAlpha-Datascience_Intership/blob/main/Task3-Car%20Price%20Prediction%20with%20Machine%20Learning/Images/Task3%20Description.jpg"/>
+- Project: **CAR PRICE PREDICTION WITH MACHINE LEARNING**
+- Description: The price of a car depends on a lot of factors like the goodwill of the brand of the car, features of the car, horsepower and the mileage it gives and many more. Car price prediction is one of the major research areas in machine learning. So if you want to learn how to train a car price prediction model then this project is for you.
+- Dataset Provided: [Car data](https://www.kaggle.com/datasets/vijayaadithyanvg/car-price-predictionused-cars)
+- Libraries used: Numpy, Pandas, Matplotlib, Seaborn, datetime, and scikit-learn
+- Models used: Gradient Boosting Regressor, Random Forest Regressor, Decision Tree Regressor, XGBoost Regressor and Linear Regression  
+- Repository: The project's GitHub repository can be found at
+
+- [Github Link](https://github.com/Gtshivanand/CodeAlpha-Datascience_Intership/tree/main/Task2-Unemployment%20Analysis%20with%20Python).
+
+
 
  # CONCLUSION: 
 
