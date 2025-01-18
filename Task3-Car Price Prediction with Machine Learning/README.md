@@ -1,18 +1,33 @@
-# Car Price Prediction with Machine Learning
+#  Task3- Car Price Prediction with Machine Learning:
 
-**Oasis Infobyte Internship Project** - [**Credentials**](https://drive.google.com/file/d/1uDjGZcWln07jb0dL60Yuz_33Ck78DQXF/view?usp=drive_link)
+# Introduction: 
 
-![MasterHead](https://img.freepik.com/free-vector/car-showroom-center-with-autos-exhibition-inside-automobile-dealership-store-shop-interior-new-modern-vehicles-models-demonstration-sale-trading_575670-1511.jpg?w=826&t=st=1699422007~exp=1699422607~hmac=3b2f5d6b9a8a9a9d789b029b73ea0744c0dfebbf1a78a9a89b775c6167ee943e)
+The Car Price Prediction project leverages machine learning techniques to estimate the prices of vehicles based on various features such as brand, model, year of manufacture, engine type, mileage, and more. This system can help potential buyers, sellers, and dealerships make informed decisions by providing a fair price estimate.
 
-<font size="1">Image Courtesy: https://img.freepik.com/free-vector/car-showroom-center-with-autos-exhibition-inside-automobile-dealership-store-shop-interior-new-modern-vehicles-models-demonstration-sale-trading_575670-1511.jpg?w=826&t=st=1699422007~exp=1699422607~hmac=3b2f5d6b9a8a9a9d789b029b73ea0744c0dfebbf1a78a9a89b775c6167ee943e</font>
+By using advanced regression algorithms and analyzing historical car pricing data, the model identifies patterns and relationships among features, enabling accurate and reliable price forecasts. This project not only simplifies the process of price evaluation but also adds value to the automobile industry by enhancing transparency and efficiency in car transactions.
 
-Click on the following link to checkout the colab file.
-- [Colab](https://colab.research.google.com/drive/1n4thlpzHBQJe5JXhfyZ6SpRu20KDksWJ?usp=sharing)
+# Objective:
+- Explore the factors affecting car prices.
+- Create a machine learning model to predict car prices based on various influencing factors including brand reputation, features, horsepower, and fuel efficiency.
+- Gain valuable experience in the field of machine learning and automotive pricing.
 
+# Task Description:
+<img src ="https://github.com/Gtshivanand/CodeAlpha-Datascience_Intership/blob/main/Task3-Car%20Price%20Prediction%20with%20Machine%20Learning/Images/Task3%20Description.jpg"/>
 
----
+# Problem Statement :
+Predicting the price of cars is based on a wide range of attributes and features. It is based on finance and the marketing domain. Using a dataset containing car details such as Name of the car model, Selling price of the car, Present price of the car, and more, we aim to develop a machine learning model that accurately estimates the price of different car models. Car price prediction is a crucial application of machine learning. This project is designed to help you learn how to build a model for car price prediction.
 
-## Problem Statement
+## About the Dataset:
+The provided dataset [**```car data.csv```**](https://www.kaggle.com/datasets/vijayaadithyanvg/car-price-predictionused-cars/data) is used here to train a car price prediction model which was downloaded from Kaggle. It contains data about all the main features that contribute to the price of a car. These features are as below:
+- Car_Name: Name of the car model
+- Year: Year of the car sold
+- Selling_Price: Selling price of the car
+- Present_Price: Present Price of the car
+- Driven_kms: kms driven
+- Fuel_Type: Fuel type of the car
+- Selling_type: Selling type of the car
+- Transmission: Transmission of the car
+- Owner: Number of owner for the car
 
 **Project Overview:**
 
@@ -24,7 +39,7 @@ In the automotive industry, determining the price of a car involves various fact
 - Create a machine learning model to predict car prices.
 - Gain valuable experience in the field of machine learning and automotive pricing.
 
----
+
 
 ## Project Summary
 
@@ -100,13 +115,4 @@ The insights provide a holistic understanding of the factors influencing car pri
 
 This project has not only equipped us with valuable data science skills but has also deepened our understanding of car pricing, making it a significant step in the field of data science and machine learning.
 
----
 
-## Author
-
-- [Arindam Paul](https://www.linkedin.com/in/arindam-paul-19a085187/)
-
----
-
-## Reference
- - [Oasis Infobyte](https://oasisinfobyte.com/)
