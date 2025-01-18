@@ -67,7 +67,7 @@ flowers into different species based on their sepal and petal measurements. This
 - Models used: Gradient Boosting Regressor, Random Forest Regressor, Decision Tree Regressor, XGBoost Regressor and Linear Regression  
 - Repository: The project's GitHub repository can be found at
 
-- [Github Link](https://github.com/Gtshivanand/CodeAlpha-Datascience_Intership/tree/main/Task2-Unemployment%20Analysis%20with%20Python).
+- [Github Link](https://github.com/Gtshivanand/CodeAlpha-Datascience_Intership/tree/main/Task3-Car%20Price%20Prediction%20with%20Machine%20Learning).
 
 
 
