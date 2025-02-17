@@ -56,7 +56,10 @@ A showcase of my work as part of the CODSOFT Data Science Internship. This repos
 
  **TASK 1: IRIS FLOWER CLASSIFICATION**
   
-  <img src="https://github.com/Gtshivanand/CodeAlpha-Datascience_Intership/blob/main/Task%201-%20Iris%20Flower%20Classification/Images/Task1%20Description.jpg"/>
+<img src="https://github.com/Gtshivanand/CodeAlpha-Datascience_Intership/blob/main/Task%201-%20Iris%20Flower%20Classification/Images/Task1%20Description.jpg"/>
+
+<img src="https://github.com/Gtshivanand/CodeAlpha-Datascience_Intership/blob/main/Task%201-%20Iris%20Flower%20Classification/Images/maxresdefault.jpg"/>
+  
   - SOURCE: https://www.kaggle.com/datasets/arshid/iris-flower-dataset
   - TASK: The Iris flower dataset consists of three species: setosa, versicolor, and virginica. These species can be distinguished based on their measurements. Now, imagine that you have the measurements of Iris flowers categorized by their respective species. Your objective is to train a machine learning model that can learn from these measurements and accurately classify the Iris flowers into their respective species. Use the Iris dataset to develop a model that can classify iris
 flowers into different species based on their sepal and petal measurements. This dataset is widely used for introductory classification tasks.
@@ -66,6 +69,8 @@ flowers into different species based on their sepal and petal measurements. This
   
 ## TASK 2
 <img src ="https://github.com/Gtshivanand/CodeAlpha-Datascience_Intership/blob/main/Task2-Unemployment%20Analysis%20with%20Python/Images/Task2%20Description.jpg"/>
+
+<img src ="https://github.com/Gtshivanand/CodeAlpha-Datascience_Intership/blob/main/Task2-Unemployment%20Analysis%20with%20Python/Images/man-showing-unemployment-rate-graph-business-concept.png"/>
 - Project: **UNEMPLOYMENT ANALYSIS WITH PYTHON**
 - Description: Unemployment is measured by the unemployment rate which is the number of people who are unemployed as a percentage of the total labour force. We have seen a sharp increase in the unemployment rate during Covid-19, so analyzing the unemployment rate can be a good data science project. 
 - Dataset Provided: [Unemployment in India](https://www.kaggle.com/datasets/gokulrajkmv/unemployment-in-india)
@@ -76,6 +81,8 @@ flowers into different species based on their sepal and petal measurements. This
 
 ## TASK 3
 <img src="https://github.com/Gtshivanand/CodeAlpha-Datascience_Intership/blob/main/Task3-Car%20Price%20Prediction%20with%20Machine%20Learning/Images/Task3%20Description.jpg"/>
+
+<img src="https://github.com/Gtshivanand/CodeAlpha-Datascience_Intership/blob/main/Task3-Car%20Price%20Prediction%20with%20Machine%20Learning/Images/CarPricePrediction.jpg"/>
 - Project: **CAR PRICE PREDICTION WITH MACHINE LEARNING**
 - Description: The price of a car depends on a lot of factors like the goodwill of the brand of the car, features of the car, horsepower and the mileage it gives and many more. Car price prediction is one of the major research areas in machine learning. So if you want to learn how to train a car price prediction model then this project is for you.
 - Dataset Provided: [Car data](https://www.kaggle.com/datasets/vijayaadithyanvg/car-price-predictionused-cars)
@@ -87,6 +94,8 @@ flowers into different species based on their sepal and petal measurements. This
 
 ## TASK 4
 <img src="https://github.com/Gtshivanand/CodeAlpha-Datascience_Intership/blob/main/Task%204-%20Sales%20Prediction%20using%20Python/Images/Task4%20Description.jpg"/>
+
+<img src="https://github.com/Gtshivanand/CodeAlpha-Datascience_Intership/blob/main/Task%204-%20Sales%20Prediction%20using%20Python/Images/Forecast-Sales-using-Machine-Learning.jpeg"/>
 - Project: **SALES PREDICTION USING PYTHON**
 - Description: Sales prediction means predicting how much of a product people will buy based on factors such as the amount you spend to advertise your product, the segment of people you advertise for, or the platform you are advertising on about your product. Typically, a product and service-based business always need their Data Scientist to predict their future sales with every step they take to manipulate the cost of advertising their product. Complete the task of sales prediction with machine learning using Python.
 - Dataset Provided: [Advertising Dataset](https://www.kaggle.com/datasets/bumba5341/advertisingcsv)
