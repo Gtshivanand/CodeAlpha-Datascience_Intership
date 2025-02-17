@@ -2,11 +2,23 @@
 
 Welcome to my CODSOFT Data Science Internship Portfolio! In this repository, you will find a collection of projects that I have completed during my internship at CODSOFT. Each project showcases my skills in data analysis, machine learning, and problem-solving.
 
-<img src ="https://github.com/Gtshivanand/CodeAlpha-Datascience_Intership/blob/main/CodeAlpha%20DataScience%20Internship%20Offer%20Letter.png"/>
 
-## Internship Offer Letter  
+
+## Internship Offer Letter :
 [📄 View Offer Letter](https://github.com/Gtshivanand/CodeAlpha-Datascience_Intership/blob/main/Intenship%20Offer%20Letter.pdf)
 
+This is the official offer letter from CodeAlpha, detailing my selection for the Data Science Internship position. It outlines the terms and expectations of the internship, including the duration, scope of work, and the learning opportunities provided by CodeAlpha. The offer letter reflects the confidence CodeAlpha had in my skills and potential, which allowed me to embark on this enriching journey in data science.
+
+## Completion Certificate:
+[📄 View Completion Certificate](https://github.com/Gtshivanand/CodeAlpha-Datascience_Intership/blob/main/Completion%20certificate.pdf)
+
+This certificate acknowledges the successful completion of my Data Science Internship at CodeAlpha, highlighting my contributions and achievements during the internship period.
+
+## Letter of Recommendation:
+
+[📄 View Letter of Recommendation](https://github.com/Gtshivanand/CodeAlpha-Datascience_Intership/blob/main/Letter%20of%20Recommendation.pdf)
+
+This letter from CodeAlpha serves as a testament to my skills, dedication, and performance during the internship, reinforcing my expertise in data science and analytics.
 
 # Description:
 A showcase of my work as part of the CODSOFT Data Science Internship. This repository reflects my journey in applying data science techniques to solve business challenges and extract actionable insights from data.
