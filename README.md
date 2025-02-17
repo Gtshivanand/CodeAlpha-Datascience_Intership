@@ -4,6 +4,10 @@ Welcome to my CODSOFT Data Science Internship Portfolio! In this repository, you
 
 <img src ="https://github.com/Gtshivanand/CodeAlpha-Datascience_Intership/blob/main/CodeAlpha%20DataScience%20Internship%20Offer%20Letter.png"/>
 
+## Internship Offer Letter  
+[📄 View Offer Letter](https://github.com/Gtshivanand/CodeAlpha-Datascience_Intership/blob/main/Intenship%20Offer%20Letter.pdf)
+
+
 # Description:
 A showcase of my work as part of the CODSOFT Data Science Internship. This repository reflects my journey in applying data science techniques to solve business challenges and extract actionable insights from data.
 
